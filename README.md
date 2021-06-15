@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @toutou6366
 - 👀 I’m interested in Hardware & Software Programing
 - 🌱 I’m currently learning Verilog HDL
-- 💞️ I’m looking to collaborate on LZU
+- 💞️ I’m looking to collaborate on GXU & LZU
 - 📫 How to reach me to email: toutou6366@gmail.com
 
 <!---
